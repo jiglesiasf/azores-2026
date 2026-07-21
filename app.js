@@ -5,26 +5,33 @@ const menuToggle = document.getElementById('menuToggle');
 
 // Sections to extract from the markdown for navigation
 const sections = [
-  { id: 'info', title: 'Información general', icon: '📋', heading: 'Información general' },
-  { id: 'itinerario', title: 'Itinerario', icon: '🗓️', heading: 'Itinerario' },
-  { id: 'dia-16', title: '16 ago — Llegada', icon: '✈️', heading: 'Domingo 16 de agosto', parent: 'itinerario' },
-  { id: 'dia-17', title: '17 ago — Furnas: termas', icon: '♨️', heading: 'Lunes 17 de agosto', parent: 'itinerario' },
-  { id: 'dia-18', title: '18 ago — Lagoa do Furnas', icon: '🏞️', heading: 'Martes 18 de agosto', parent: 'itinerario' },
-  { id: 'dia-19', title: '19 ago — Traslado PD', icon: '🚗', heading: 'Miércoles 19 de agosto', parent: 'itinerario' },
-  { id: 'dia-20', title: '20 ago — Ballenas', icon: '🐋', heading: 'Jueves 20 de agosto', parent: 'itinerario' },
-  { id: 'dia-21', title: '21 ago — Costa Norte', icon: '🌊', heading: 'Viernes 21 de agosto', parent: 'itinerario' },
-  { id: 'dia-22', title: '22 ago — Nordeste', icon: '🧭', heading: 'Sábado 22 de agosto', parent: 'itinerario' },
-  { id: 'dia-23', title: '23 ago — Día libre', icon: '☀️', heading: 'Domingo 23 de agosto', parent: 'itinerario' },
-  { id: 'dia-24', title: '24 ago — Vuelta', icon: '🏠', heading: 'Lunes 24 de agosto', parent: 'itinerario' },
+  // DATOS DE INTERÉS
+  { group: 'Datos de interés' },
+  { id: 'info', title: 'Vuelos y alojamiento', icon: '✈️', heading: 'Información general' },
+  { id: 'reservas', title: 'Reservas', icon: '📌', heading: 'Reservas' },
+  { id: 'checklist', title: 'Checklist', icon: '✅', heading: 'Checklist' },
+  { id: 'notas', title: 'Notas del viaje', icon: '📝', heading: 'Notas del viaje' },
+
+  // PLANNING
+  { group: 'Planning' },
+  { id: 'dia-16', title: '16 ago — Llegada', icon: '✈️', heading: 'Domingo 16 de agosto' },
+  { id: 'dia-17', title: '17 ago — Furnas: termas', icon: '♨️', heading: 'Lunes 17 de agosto' },
+  { id: 'dia-18', title: '18 ago — Lagoa do Furnas', icon: '🏞️', heading: 'Martes 18 de agosto' },
+  { id: 'dia-19', title: '19 ago — Traslado PD', icon: '🚗', heading: 'Miércoles 19 de agosto' },
+  { id: 'dia-20', title: '20 ago — Ballenas', icon: '🐋', heading: 'Jueves 20 de agosto' },
+  { id: 'dia-21', title: '21 ago — Costa Norte', icon: '🌊', heading: 'Viernes 21 de agosto' },
+  { id: 'dia-22', title: '22 ago — Nordeste', icon: '🧭', heading: 'Sábado 22 de agosto' },
+  { id: 'dia-23', title: '23 ago — Día libre', icon: '☀️', heading: 'Domingo 23 de agosto' },
+  { id: 'dia-24', title: '24 ago — Vuelta', icon: '🏠', heading: 'Lunes 24 de agosto' },
+
+  // PUNTOS DE INTERÉS
+  { group: 'Puntos de interés' },
   { id: 'restaurantes', title: 'Restaurantes', icon: '🍽️', heading: 'Restaurantes' },
   { id: 'miradores', title: 'Miradores', icon: '🏔️', heading: 'Miradores' },
   { id: 'playas', title: 'Playas', icon: '🏖️', heading: 'Playas y piscinas naturales' },
   { id: 'termas', title: 'Termas', icon: '♨️', heading: 'Termas' },
   { id: 'cafeterias', title: 'Cafeterías', icon: '☕', heading: 'Cafeterías y pastelerías' },
   { id: 'compras', title: 'Compras', icon: '🛒', heading: 'Compras' },
-  { id: 'reservas', title: 'Reservas', icon: '📌', heading: 'Reservas' },
-  { id: 'checklist', title: 'Checklist', icon: '✅', heading: 'Checklist' },
-  { id: 'notas', title: 'Notas del viaje', icon: '📝', heading: 'Notas del viaje' },
 ];
 
 let currentSection = null;
@@ -33,8 +40,15 @@ let currentSection = null;
 function buildNav(sections) {
   sidebarNav.innerHTML = '';
   sections.forEach(s => {
+    if (s.group) {
+      const header = document.createElement('div');
+      header.className = 'nav-section';
+      header.textContent = s.group;
+      sidebarNav.appendChild(header);
+      return;
+    }
     const link = document.createElement('a');
-    link.className = 'nav-link' + (s.parent ? ' sub' : '');
+    link.className = 'nav-link';
     link.dataset.section = s.id;
     link.innerHTML = `${s.icon} ${s.title}`;
     link.addEventListener('click', (e) => {
@@ -150,6 +164,7 @@ function initCheckboxes() {
 function onScroll() {
   let active = null;
   for (const s of sections) {
+    if (!s.id) continue;
     const el = document.getElementById('section-' + s.id);
     if (el && el.getBoundingClientRect().top <= 100) {
       active = s.id;
