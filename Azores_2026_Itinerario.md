@@ -33,8 +33,10 @@
 | Contacto | silvia.juan.2019@gmail.com / 688 925 063 |
 | Escala ida | Terceira ~45 min |
 | Escala vuelta | Lisboa ~3 h 25 min |
+| Origen | Galicia (Pereiro de Aguiar) → transfer al aeropuerto de Oporto |
+| Destino final | Barcelona (casa) |
 
-> ⚠️ **El vuelo de vuelta llega a Barcelona, no a Oporto.** Ver cómo volver a Oporto (vuelo aparte, tren, etc.).
+> 📌 Salimos de Oporto porque estamos en Galicia. Volvemos a Barcelona porque es donde vivimos. Fin de viaje.
 
 ### 🏠 Alojamiento
 
@@ -145,9 +147,10 @@
 Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ### 🌅 Plan de la mañana
-- Vuelo de Oporto a las 15:40 (S4183) → Terceira
+- **Transfer contratado:** Pereiro de Aguiar → Aeropuerto de Oporto
+- Vuelo OPO→TER (S4183) a las 15:40
 - Conexión en Terceira ~45 min
-- Vuelo Terceira → Ponta Delgada a las 18:05 (SP409)
+- Vuelo TER→PDL (SP409) a las 18:05
 - **Llegada a PDL: 18:50**
 
 ### 🍽️ Comida
@@ -574,16 +577,15 @@ Variable
 - No aplica (esperemos)
 
 ### 📝 Notas
-- **DÍA APRETADO:** Vuelo a las 09:00, levantarse temprano
+- **DÍA APRETADO:** Vuelo a las 09:50, levantarse temprano
 - La noche anterior: preparar maletas, dejar todo listo
 - Confirmar hora límite de devolución del coche
 - Dejar la gasolina llena antes de devolver el coche
-- **Logística post-viaje:** Cómo volver de Barcelona a Oporto (¿vuelo aparte? ¿tren Renfe/AVE? ¿alquilar coche?)
+- Llegada a BCN 19:20 → casa. Fin de viaje 🏠
 
 ### 🔗 Links útiles
 - *(añadir enlace del aeropuerto PDL)*
 - *(añadir enlace de la compañía de alquiler)*
-- *(pendiente: buscar opciones Barcelona → Oporto)*
 
 ---
 
