@@ -2,24 +2,61 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Azores 2026 — Itinerario</title>
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇦🇿</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇵🇹</text></svg>">
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <!-- App -->
   <link rel="stylesheet" href="style.css">
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-  <button class="menu-toggle" id="menuToggle" aria-label="Menú">☰</button>
+  <button class="menu-toggle" id="menuToggle" aria-label="Menú">
+    <i class="fa-solid fa-bars"></i>
+  </button>
+
   <aside class="sidebar" id="sidebar">
     <div class="sidebar-header">
-      <h1>🇦🇿 Azores 2026</h1>
-      <p class="subtitle">16–24 agosto</p>
+      <h1>🇵🇹 Azores 2026</h1>
+      <p class="subtitle">16–24 agosto · São Miguel</p>
     </div>
     <nav class="sidebar-nav" id="sidebarNav"></nav>
   </aside>
-  <main class="content" id="content">
+
+  <!-- Content View (non-day sections) -->
+  <main class="content" id="contentView">
     <div class="loading">Cargando itinerario...</div>
   </main>
+
+  <!-- Day View (full-screen map + bottom sheet) -->
+  <div id="dayView" class="day-view hidden">
+    <div id="dayMap" class="day-map"></div>
+    <div id="sheetOverlay" class="sheet-overlay"></div>
+    <div id="bottomSheet" class="bottom-sheet sheet-collapsed">
+      <div class="sheet-handle-area">
+        <div class="sheet-handle"></div>
+      </div>
+      <div class="sheet-header">
+        <div class="sheet-title-row">
+          <button id="dayBack" class="day-back" aria-label="Volver">
+            <i class="fa-solid fa-chevron-left"></i>
+          </button>
+          <div>
+            <h2 id="sheetTitle" class="sheet-title"></h2>
+            <p id="sheetSubtitle" class="sheet-subtitle"></p>
+          </div>
+        </div>
+        <div id="sheetMeta" class="sheet-meta"></div>
+      </div>
+      <div class="sheet-body" id="sheetBody"></div>
+    </div>
+  </div>
+
+  <script src="routes.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
