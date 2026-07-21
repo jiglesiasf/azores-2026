@@ -9,17 +9,32 @@
 
 ### ✈️ Vuelos
 
+**Aerolínea:** Azores Airlines / SATA Air Açores
+
+**Ida — 16 de agosto**
+
+| Vuelo | Ruta | Salida | Llegada |
+|---|---|---|---|
+| S4183 | Oporto (OPO) → Terceira (TER) | 15:40 | 17:20 |
+| SP409 | Terceira (TER) → Ponta Delgada (PDL) | 18:05 | 18:50 |
+
+**Vuelta — 24 de agosto**
+
+| Vuelo | Ruta | Salida | Llegada |
+|---|---|---|---|
+| S4122 | Ponta Delgada (PDL) → Lisboa (LIS) | 09:50 | 13:05 |
+| S48706 | Lisboa (LIS) → Barcelona (BCN) | 16:30 | 19:20 |
+
 | Detalle | Info |
 |---|---|
-| Aerolínea | *(pendiente)* |
-| Vuelo de ida | *(pendiente)* |
-| Vuelo de vuelta | *(pendiente)* |
-| Aeropuerto de salida | *(pendiente)* |
-| Aeropuerto de llegada | Ponta Delgada (PDL) |
-| Num. confirmation | *(pendiente)* |
-| Equipaje facturado | *(pendiente)* |
+| Aerolínea | Azores Airlines / SATA |
+| Reserva realizada | 24/6/2026 |
+| Equipaje facturado | 1×23kg (Juan) — 9,99€ |
+| Contacto | silvia.juan.2019@gmail.com / 688 925 063 |
+| Escala ida | Terceira ~45 min |
+| Escala vuelta | Lisboa ~3 h 25 min |
 
-> 💡 *Comprobar política de equipaje para sillas de coche/paraguas.*
+> ⚠️ **El vuelo de vuelta llega a Barcelona, no a Oporto.** Ver cómo volver a Oporto (vuelo aparte, tren, etc.).
 
 ### 🏠 Alojamiento
 
@@ -94,7 +109,7 @@
 ### ✅ Checklist antes del viaje
 
 - [ ] Pasaportes / DNI (comprobar caducidad)
-- [ ] Vuelos descargados en móvil
+- [x] Vuelos descargados en móvil
 - [x] Alojamientos descargados en móvil
 - [ ] Reserva coche descargada
 - [ ] Reserva excursión ballenas descargada
@@ -130,46 +145,48 @@
 Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ### 🌅 Plan de la mañana
-- Llegada al aeropuerto de Ponta Delgada (PDL)
-- Recoger el coche de alquiler
-- Compra rápida en supermercado cerca del aeropuerto (agua, snacks, algo para desayunar)
-- Salida hacia Furnas (~30-40 min por la EN-1-1A)
+- Vuelo de Oporto a las 15:40 (S4183) → Terceira
+- Conexión en Terceira ~45 min
+- Vuelo Terceira → Ponta Delgada a las 18:05 (SP409)
+- **Llegada a PDL: 18:50**
 
 ### 🍽️ Comida
-- *Opción 1:* Comprar algo en el supermercado para comer en el camino o en el alojamiento
-- *Opción 2:* Parar en Vila Franca do Campo en algún restaurante sencillo
-- *(pendiente: buscar restaurantes en ruta)*
+- Comer en el aeropuerto antes del primer vuelo o en Terceira durante la escala
+- Llevar snacks para los niños para los vuelos
 
 ### 😴 Siesta (trayecto recomendado)
-- Si los niños se duermen en el coche, aprovechar para hacer la ruta panorámica por la costa sur (EN-1-1A)
-- Vistas al mar y a las faldas verdes de la isla
-- Si no duermen: el trayecto es corto y entretenido
+- Los niños podrían dormir en el segundo vuelo (solo 45 min)
+- Trayecto aeropuerto → Furnas (~40 min): si duermen, aprovechar para llegar sin prisa
 
-### 🌿 Plan de tarde
-- Llegada a Furnas y check-in
-- Paseo tranquilo por Furnas: ver la fumarolas, oler el azufre
-- Primer contacto con las termas si hay energía (o dejar para otro día)
-- Explorar los jardines y el entorno del alojamiento
+### 🌅 Plan de la tarde / noche
+- Recoger el coche en PDL
+- Compra rápida en supermercado cerca del aeropuerto (agua, snacks, algo para cenar)
+- Salida hacia Furnas (~40 min)
+- **Llegada a Furnas: ~20:00-20:30**
+- Check-in (confirmar si hay check-in late con Airbnb)
+- Cenar algo sencillo en el alojamiento o buscar restaurante abierto
 
 ### 🍷 Cena
-- Furnas tiene restaurantes con plato típico: *Cozido das Furnas* (estofado cocido con vapor volcánico)
-- *(pendiente: buscar restaurantes en Furnas)*
+- Si llegamos tarde: cenar en el alojamiento con lo comprado en el supermercado
+- Si hay tiempo: algún restaurante abierto en Furnas
+- *(pendiente: buscar restaurantes con horario extendido en Furnas)*
 
 ### 🚗 Tiempo en coche
-~30-40 min (aeropuerto → Furnas)
+~40 min (aeropuerto → Furnas)
 
 ### 🌧️ Alternativa si llueve
-- Quedarse en el alojamiento, instalarse con calma
+- Llegar al alojamiento y instalarse con calma
 - Furnas es pequeña y acogedora bajo la lluvia
 
 ### 📝 Notas
-- Llegar con calma. El primer día es para instalarse.
-- Check-in en Furnas a las 16:00. Si llegamos antes, podemos hacer una compra en supermercado o pasear por Vila Franca do Campo.
+- Llegada tarde (~20:00 a Furnas). Planificar cena sencilla.
+- Confirmar con Airbnb si hay posibilidad de check-in late (después de las 20:00)
+- Llevar algo de comida para los niños por si llegamos con hambre
 - Ambos alojamientos tienen lavadora ✅
 
 ### 🔗 Links útiles
 - *(añadir mapa Google Maps del trayecto aeropuerto → Furnas)*
-- *(añadir enlace del alojamiento)*
+- *(añadir enlace Quinta das Camélias)*
 
 ---
 
@@ -530,23 +547,25 @@ Variable
 Últimas compras, despedida y vuelta a casa.
 
 ### 🌅 Plan de la mañana
-- Check-out del alojamiento (confirmar hora)
-- Últimas compras si queda algo pendiente
+- **Vuelo PDL→LIS a las 09:50** — hay que estar en el aeropuerto ~07:30-08:00
+- Check-out temprano del alojamiento (confirmar hora)
 - Comprobar que no queda nada en el alojamiento
-- Llegar al aeropuerto con tiempo (~15-20 min desde Ponta Delgada)
+- Devolver el coche en el aeropuerto (comprobar si hay devolución en PDL)
+- Llegar al aeropuerto con tiempo
 
 ### 🍽️ Comida
-- Según hora del vuelo: desayunar en el aeropuerto o en la ciudad
-- *(pendiente)*
+- Desayunar en el aeropuerto de Ponta Delgada o en Lisboa durante la escala (~3 h 25 min)
+- Vuelo LIS→BCN a las 16:30, llegada a BCN 19:20
 
 ### 😴 Siesta
 - En el avión 😄
 
 ### 🌿 Plan de tarde
-- Vuelo a casa
+- Llegada a Barcelona a las 19:20
+- Recoger equipaje yOrganizar transporte hasta Oporto (¿vuelo, tren, coche?)
 
 ### 🍷 Cena
-- En casa o en el aeropuerto de conexión
+- En Barcelona u Oporto según el plan de vuelta
 
 ### 🚗 Tiempo en coche
 ~15-20 min (Ponta Delgada → aeropuerto)
@@ -555,13 +574,16 @@ Variable
 - No aplica (esperemos)
 
 ### 📝 Notas
+- **DÍA APRETADO:** Vuelo a las 09:00, levantarse temprano
+- La noche anterior: preparar maletas, dejar todo listo
 - Confirmar hora límite de devolución del coche
-- Llevar todo revisado la noche anterior
 - Dejar la gasolina llena antes de devolver el coche
+- **Logística post-viaje:** Cómo volver de Barcelona a Oporto (¿vuelo aparte? ¿tren Renfe/AVE? ¿alquilar coche?)
 
 ### 🔗 Links útiles
-- *(añadir enlace del aeropuerto)*
+- *(añadir enlace del aeropuerto PDL)*
 - *(añadir enlace de la compañía de alquiler)*
+- *(pendiente: buscar opciones Barcelona → Oporto)*
 
 ---
 
@@ -685,9 +707,9 @@ Variable
 
 | Concepto | Presupuesto | Gasto real | Notas |
 |---|---|---|---|
-| ✈️ Vuelos (ida y vuelta, 4 personas) | | | |
-| 🏠 Alojamiento Furnas (3 noches) | | | |
-| 🏠 Alojamiento Ponta Delgada (5 noches) | | | |
+| ✈️ Vuelos (4 personas, ida y vuelta) | | 1.736,99€ | Azores Airlines. Incluye 1 equipaje facturado 23kg |
+| 🏠 Alojamiento Furnas (3 noches) | | *(pendiente)* | Quinta das Camélias |
+| 🏠 Alojamiento Ponta Delgada (5 noches) | | *(pendiente)* | IN53 Guest House |
 | 🚗 Coche de alquiler (8 días) | | | |
 | ⛽ Gasolina | | | |
 | 🍽️ Comidas y cenas | | | |
@@ -709,9 +731,13 @@ Variable
 
 | Fecha | Actividad | Hora | Localizador | Precio | Estado |
 |---|---|---|---|---|---|
+| 16 agosto | Vuelo OPO→TER (S4183) | 15:40 | Azores Airlines | — | ✅ |
+| 16 agosto | Vuelo TER→PDL (SP409) | 18:05 | Azores Airlines | — | ✅ |
 | 16-19 agosto | Alojamiento Furnas (Quinta das Camélias) | Check-in: 16:00 | HM34WZND3J | *(pendiente)* | ✅ Confirmada |
 | 19-24 agosto | Alojamiento Ponta Delgada (IN53 Guest House) | Check-in: *(pendiente)* | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
 | 20 agosto | Whale watching (catamarán) | 08:30 | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
+| 24 agosto | Vuelo PDL→LIS (S4122) | 09:50 | Azores Airlines | — | ✅ |
+| 24 agosto | Vuelo LIS→BCN (S48706) | 16:30 | Azores Airlines | — | ✅ |
 | *(añadir)* | | | | | |
 
 ---
