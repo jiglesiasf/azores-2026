@@ -30,10 +30,10 @@
 | Aerolínea | Azores Airlines / SATA |
 | Reserva realizada | 24/6/2026 |
 | Equipaje facturado | 1×23kg (Juan) |
-| Contacto | silvia.juan.2019@gmail.com / 688 925 063 |
+| Contacto | *(no compartir en repo público)* |
 | Escala ida | Terceira ~45 min |
 | Escala vuelta | Lisboa ~3 h 25 min |
-| Origen | Galicia (Pereiro de Aguiar) → transfer al aeropuerto de Oporto |
+| Origen | Galicia → transfer al aeropuerto de Oporto |
 | Destino final | Barcelona (casa) |
 
 > 📌 Salimos de Oporto porque estamos en Galicia. Volvemos a Barcelona porque es donde vivimos. Fin de viaje.
@@ -46,11 +46,11 @@
 |---|---|
 | Alojamiento | Quinta das Camélias |
 | Dirección | Rua da Palha 18, Furnas, Azores 9675 |
-| Web | [Airbnb](https://www.airbnb.es/rooms/1400555583116873386) |
+| Web | *(enlace privado)* |
 | Check-in | 16 agosto, 16:00 |
 | Check-out | 19 agosto, 10:00 |
 | Noches | 3 |
-| Localizador | HM34WZND3J |
+| Localizador | *(en booking privado)* |
 | Parking | ✅ En la calle |
 | Lavadora | ✅ Sí |
 | Cocina | ✅ Cocina completa |
@@ -61,7 +61,7 @@
 |---|---|
 | Alojamiento | IN53 Guest House |
 | Dirección | Rua João Francisco Cabral, 53, 9500-208 Ponta Delgada |
-| Web | [Booking.com](https://www.booking.com/hotel/pt/in53-guest-house.es.html) |
+| Web | *(enlace privado)* |
 | Check-in | 19 agosto |
 | Check-out | 24 agosto |
 | Noches | 5 |
@@ -145,7 +145,7 @@
 Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ### 🌅 Plan de la mañana
-- **Transfer contratado:** Pereiro de Aguiar → Aeropuerto de Oporto
+- **Transfer contratado:** Galicia → Aeropuerto de Oporto
 - Vuelo OPO→TER (S4183) a las 15:40
 - Conexión en Terceira ~45 min
 - Vuelo TER→PDL (SP409) a las 18:05
@@ -709,7 +709,7 @@ Variable
 |---|---|---|---|---|
 | 16 agosto | Vuelo OPO→TER (S4183) | 15:40 | Azores Airlines | ✅ |
 | 16 agosto | Vuelo TER→PDL (SP409) | 18:05 | Azores Airlines | ✅ |
-| 16-19 agosto | Alojamiento Furnas (Quinta das Camélias) | Check-in: 16:00 | HM34WZND3J | ✅ Confirmada |
+| 16-19 agosto | Alojamiento Furnas (Quinta das Camélias) | Check-in: 16:00 | *(en booking privado)* | ✅ Confirmada |
 | 19-24 agosto | Alojamiento Ponta Delgada (IN53 Guest House) | Check-in: *(pendiente)* | *(pendiente)* | ✅ Confirmada |
 | 20 agosto | Whale watching (catamarán) | 08:30 | *(pendiente)* | ✅ Confirmada |
 | 24 agosto | Vuelo PDL→LIS (S4122) | 09:50 | Azores Airlines | ✅ |
