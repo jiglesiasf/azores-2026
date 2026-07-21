@@ -42,16 +42,17 @@
 
 | Detalle | Info |
 |---|---|
-| Alojamiento | *(pendiente)* |
-| Dirección | *(pendiente)* |
+| Alojamiento | IN53 Guest House |
+| Dirección | Rua João Francisco Cabral, 53, 9500-208 Ponta Delgada |
+| Web | [Booking.com](https://www.booking.com/hotel/pt/in53-guest-house.es.html) |
 | Check-in | 19 agosto |
 | Check-out | 24 agosto |
 | Noches | 5 |
 | Localizador | *(pendiente)* |
 | Precio/noche | *(pendiente)* |
-| Parking | *(pendiente)* |
-| Lavadora | *(pendiente)* |
-| Cocina | *(pendiente)* |
+| Parking | ❌ No tiene (buscar parking cercano) |
+| Lavadora | ✅ Sí |
+| Cocina | ✅ Cocina completa |
 
 ### 🚗 Coche de alquiler
 
@@ -162,7 +163,7 @@ Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ### 📝 Notas
 - Llegar con calma. El primer día es para instalarse.
-- Comprobar si el alojamiento tiene lavadora (vamos 8 días con niños pequeños).
+- Ambos alojamientos tienen lavadora ✅
 
 ### 🔗 Links útiles
 - *(añadir mapa Google Maps del trayecto aeropuerto → Furnas)*
@@ -706,6 +707,7 @@ Variable
 
 | Fecha | Actividad | Hora | Localizador | Precio | Estado |
 |---|---|---|---|---|---|
+| 19-24 agosto | Alojamiento Ponta Delgada (IN53 Guest House) | Check-in: *(pendiente)* | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
 | 20 agosto | Whale watching (catamarán) | 08:30 | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
 | *(añadir)* | | | | | |
 
