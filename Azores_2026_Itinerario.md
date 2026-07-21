@@ -27,16 +27,17 @@
 
 | Detalle | Info |
 |---|---|
-| Alojamiento | *(pendiente)* |
-| Dirección | *(pendiente)* |
-| Check-in | 16 agosto |
-| Check-out | 19 agosto |
+| Alojamiento | Quinta das Camélias |
+| Dirección | Rua da Palha 18, Furnas, Azores 9675 |
+| Web | [Airbnb](https://www.airbnb.es/rooms/1400555583116873386) |
+| Check-in | 16 agosto, 16:00 |
+| Check-out | 19 agosto, 10:00 |
 | Noches | 3 |
-| Localizador | *(pendiente)* |
+| Localizador | HM34WZND3J |
 | Precio/noche | *(pendiente)* |
-| Parking | *(pendiente)* |
-| Lavadora | *(pendiente)* |
-| Cocina | *(pendiente)* |
+| Parking | ✅ En la calle |
+| Lavadora | ✅ Sí |
+| Cocina | ✅ Cocina completa |
 
 **Fase 2 — Ponta Delgada (19–24 agosto)**
 
@@ -94,7 +95,7 @@
 
 - [ ] Pasaportes / DNI (comprobar caducidad)
 - [ ] Vuelos descargados en móvil
-- [ ] Alojamientos descargados en móvil
+- [x] Alojamientos descargados en móvil
 - [ ] Reserva coche descargada
 - [ ] Reserva excursión ballenas descargada
 - [ ] Seguro de viaje contratado
@@ -163,6 +164,7 @@ Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ### 📝 Notas
 - Llegar con calma. El primer día es para instalarse.
+- Check-in en Furnas a las 16:00. Si llegamos antes, podemos hacer una compra en supermercado o pasear por Vila Franca do Campo.
 - Ambos alojamientos tienen lavadora ✅
 
 ### 🔗 Links útiles
@@ -707,6 +709,7 @@ Variable
 
 | Fecha | Actividad | Hora | Localizador | Precio | Estado |
 |---|---|---|---|---|---|
+| 16-19 agosto | Alojamiento Furnas (Quinta das Camélias) | Check-in: 16:00 | HM34WZND3J | *(pendiente)* | ✅ Confirmada |
 | 19-24 agosto | Alojamiento Ponta Delgada (IN53 Guest House) | Check-in: *(pendiente)* | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
 | 20 agosto | Whale watching (catamarán) | 08:30 | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
 | *(añadir)* | | | | | |
