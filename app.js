@@ -79,25 +79,11 @@ function setActiveNav(sectionId) {
 
 // Parse markdown and insert section anchors
 function renderMarkdown(md) {
-  // Add anchor IDs before each ## heading
-  let processed = md;
-  sections.forEach(s => {
-    // Match the heading in markdown (## or ###)
-    const regex = new RegExp(`(##\\s+${escapeRegex(s.heading)})`, 'i');
-    processed = processed.replace(regex, `<div id="section-${s.id}">$1`);
-    // Close the previous section div
-  });
-
-  // Use marked to render
-  const html = marked.parse(processed);
-  content.innerHTML = html;
-
-  // Add closing divs and fix - actually let's do it differently
-  // Just render and add scroll targets
   content.innerHTML = marked.parse(md);
 
-  // Now add anchor divs before each heading
+  // Add anchor divs before each heading
   sections.forEach(s => {
+    if (!s.id || !s.heading) return;
     const headings = content.querySelectorAll('h2, h3');
     for (const h of headings) {
       if (h.textContent.includes(s.heading) || h.textContent.includes(s.heading.replace(/^(Domingo|Lunes|Martes|Miércoles|Jueves|Viernes|Sábado)\s+/, ''))) {
@@ -109,10 +95,6 @@ function renderMarkdown(md) {
       }
     }
   });
-}
-
-function escapeRegex(str) {
-  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 // Checkboxes: make clickable, save state, remove bullets
