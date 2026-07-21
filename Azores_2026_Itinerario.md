@@ -36,8 +36,6 @@
 | Origen | Galicia → transfer al aeropuerto de Oporto |
 | Destino final | Barcelona (casa) |
 
-> 📌 Salimos de Oporto porque estamos en Galicia. Volvemos a Barcelona porque es donde vivimos. Fin de viaje.
-
 ### 🏠 Alojamiento
 
 **Fase 1 — Furnas (16–19 agosto)**
