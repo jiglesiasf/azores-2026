@@ -29,7 +29,7 @@
 |---|---|
 | Aerolínea | Azores Airlines / SATA |
 | Reserva realizada | 24/6/2026 |
-| Equipaje facturado | 1×23kg (Juan) — 9,99€ |
+| Equipaje facturado | 1×23kg (Juan) |
 | Contacto | silvia.juan.2019@gmail.com / 688 925 063 |
 | Escala ida | Terceira ~45 min |
 | Escala vuelta | Lisboa ~3 h 25 min |
@@ -51,7 +51,6 @@
 | Check-out | 19 agosto, 10:00 |
 | Noches | 3 |
 | Localizador | HM34WZND3J |
-| Precio/noche | *(pendiente)* |
 | Parking | ✅ En la calle |
 | Lavadora | ✅ Sí |
 | Cocina | ✅ Cocina completa |
@@ -67,7 +66,6 @@
 | Check-out | 24 agosto |
 | Noches | 5 |
 | Localizador | *(pendiente)* |
-| Precio/noche | *(pendiente)* |
 | Parking | ❌ No tiene (buscar parking cercano) |
 | Lavadora | ✅ Sí |
 | Cocina | ✅ Cocina completa |
@@ -89,9 +87,9 @@
 
 ### 📌 Reservas confirmadas
 
-| Fecha | Actividad | Hora | Localizador | Precio |
-|---|---|---|---|---|
-| 20 agosto | Excursión ballenas y delfines (catamarán) | 08:30 | *(pendiente)* | *(pendiente)* |
+| Fecha | Actividad | Hora | Localizador |
+|---|---|---|---|
+| 20 agosto | Excursión ballenas y delfines (catamarán) | 08:30 | *(pendiente)* |
 
 ### 📞 Teléfonos útiles
 
@@ -595,40 +593,40 @@ Variable
 
 ## Furnas
 
-| Restaurante | Especialidad | Precio aprox. | Reserva | Nota personal |
-|---|---|---|---|---|
-| *(pendiente)* | | | | |
-| *(pendiente)* | | | | |
-| *(pendiente)* | | | | |
+| Restaurante | Especialidad | Reserva | Nota personal |
+|---|---|---|---|
+| *(pendiente)* | | | |
+| *(pendiente)* | | | |
+| *(pendiente)* | | | |
 
 ## Vila Franca do Campo
 
-| Restaurante | Especialidad | Precio aprox. | Reserva | Nota personal |
-|---|---|---|---|---|
-| *(pendiente)* | | | | |
-| *(pendiente)* | | | | |
+| Restaurante | Especialidad | Reserva | Nota personal |
+|---|---|---|---|
+| *(pendiente)* | | | |
+| *(pendiente)* | | | |
 
 ## Nordeste
 
-| Restaurante | Especialidad | Precio aprox. | Reserva | Nota personal |
-|---|---|---|---|---|
-| *(pendiente)* | | | | |
-| *(pendiente)* | | | | |
+| Restaurante | Especialidad | Reserva | Nota personal |
+|---|---|---|---|
+| *(pendiente)* | | | |
+| *(pendiente)* | | | |
 
 ## Ribeira Grande
 
-| Restaurante | Especialidad | Precio aprox. | Reserva | Nota personal |
-|---|---|---|---|---|
-| *(pendiente)* | | | | |
-| *(pendiente)* | | | | |
+| Restaurante | Especialidad | Reserva | Nota personal |
+|---|---|---|---|
+| *(pendiente)* | | | |
+| *(pendiente)* | | | |
 
 ## Ponta Delgada
 
-| Restaurante | Especialidad | Precio aprox. | Reserva | Nota personal |
-|---|---|---|---|---|
-| *(pendiente)* | | | | |
-| *(pendiente)* | | | | |
-| *(pendiente)* | | | | |
+| Restaurante | Especialidad | Reserva | Nota personal |
+|---|---|---|---|
+| *(pendiente)* | | | |
+| *(pendiente)* | | | |
+| *(pendiente)* | | | |
 
 > 💡 *Restaurante recomendado para la última cena: *(pendiente)*
 
@@ -659,14 +657,14 @@ Variable
 
 # ♨️ Termas
 
-| Lugar | Precio aprox. | Ideal con niños | Horario | Nota personal |
-|---|---|---|---|---|
-| Poça da Dona Beija (Furnas) | ~5-8€/adulto | ✅ Sí, hay zona para niños | *(pendiente)* | Aguas termales, muy popular |
-| Termas Ferraria | ~5-8€/adulto | ✅ Sí (confirmar) | *(pendiente)* | Piscina natural en la costa |
-| Parque Terra Nostra (Furnas) | ~10-15€/adulto | ✅ Sí, gran jardín | *(pendiente)* | Piscina termal enorme y bonita |
-| *(añadir más)* | | | | |
+| Lugar | Ideal con niños | Horario | Nota personal |
+|---|---|---|---|
+| Poça da Dona Beija (Furnas) | ✅ Sí, hay zona para niños | *(pendiente)* | Aguas termales, muy popular |
+| Termas Ferraria | ✅ Sí (confirmar) | *(pendiente)* | Piscina natural en la costa |
+| Parque Terra Nostra (Furnas) | ✅ Sí, gran jardín | *(pendiente)* | Piscina termal enorme y bonita |
+| *(añadir más)* | | | |
 
-> ⚠️ *Confirmar precios y horarios actualizados antes del viaje.*
+> ⚠️ *Confirmar horarios actualizados antes del viaje.*
 
 ---
 
@@ -705,42 +703,18 @@ Variable
 
 ---
 
-# 💰 Presupuesto
-
-| Concepto | Presupuesto | Gasto real | Notas |
-|---|---|---|---|
-| ✈️ Vuelos (4 personas, ida y vuelta) | | 1.736,99€ | Azores Airlines. Incluye 1 equipaje facturado 23kg |
-| 🏠 Alojamiento Furnas (3 noches) | | *(pendiente)* | Quinta das Camélias |
-| 🏠 Alojamiento Ponta Delgada (5 noches) | | *(pendiente)* | IN53 Guest House |
-| 🚗 Coche de alquiler (8 días) | | | |
-| ⛽ Gasolina | | | |
-| 🍽️ Comidas y cenas | | | |
-| ☕ Desayunos / cafés | | | |
-| 🐋 Excursión ballenas | | | |
-| ♨️ Termas | | | |
-| 🏖️ Playas / piscinas | | | |
-| 🛒 Compras / souvenirs | | | |
-| 🏥 Seguro de viaje | | | |
-| 📱 Wifi / roaming | | | |
-| 🎁 Otros | | | |
-| **TOTAL** | | | |
-
-> 💡 *Pista: en Azores los restaurantes son razonables. Un almuerzo completo para 2 adultos ronda los 30-50€. Las termas suelen costar entre 5-15€ por adulto.*
-
----
-
 # 📌 Reservas
 
-| Fecha | Actividad | Hora | Localizador | Precio | Estado |
-|---|---|---|---|---|---|
-| 16 agosto | Vuelo OPO→TER (S4183) | 15:40 | Azores Airlines | — | ✅ |
-| 16 agosto | Vuelo TER→PDL (SP409) | 18:05 | Azores Airlines | — | ✅ |
-| 16-19 agosto | Alojamiento Furnas (Quinta das Camélias) | Check-in: 16:00 | HM34WZND3J | *(pendiente)* | ✅ Confirmada |
-| 19-24 agosto | Alojamiento Ponta Delgada (IN53 Guest House) | Check-in: *(pendiente)* | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
-| 20 agosto | Whale watching (catamarán) | 08:30 | *(pendiente)* | *(pendiente)* | ✅ Confirmada |
-| 24 agosto | Vuelo PDL→LIS (S4122) | 09:50 | Azores Airlines | — | ✅ |
-| 24 agosto | Vuelo LIS→BCN (S48706) | 16:30 | Azores Airlines | — | ✅ |
-| *(añadir)* | | | | | |
+| Fecha | Actividad | Hora | Localizador | Estado |
+|---|---|---|---|---|
+| 16 agosto | Vuelo OPO→TER (S4183) | 15:40 | Azores Airlines | ✅ |
+| 16 agosto | Vuelo TER→PDL (SP409) | 18:05 | Azores Airlines | ✅ |
+| 16-19 agosto | Alojamiento Furnas (Quinta das Camélias) | Check-in: 16:00 | HM34WZND3J | ✅ Confirmada |
+| 19-24 agosto | Alojamiento Ponta Delgada (IN53 Guest House) | Check-in: *(pendiente)* | *(pendiente)* | ✅ Confirmada |
+| 20 agosto | Whale watching (catamarán) | 08:30 | *(pendiente)* | ✅ Confirmada |
+| 24 agosto | Vuelo PDL→LIS (S4122) | 09:50 | Azores Airlines | ✅ |
+| 24 agosto | Vuelo LIS→BCN (S48706) | 16:30 | Azores Airlines | ✅ |
+| *(añadir)* | | | | |
 
 ---
 

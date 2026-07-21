@@ -22,7 +22,6 @@ const sections = [
   { id: 'termas', title: 'Termas', icon: '♨️', heading: 'Termas' },
   { id: 'cafeterias', title: 'Cafeterías', icon: '☕', heading: 'Cafeterías y pastelerías' },
   { id: 'compras', title: 'Compras', icon: '🛒', heading: 'Compras' },
-  { id: 'presupuesto', title: 'Presupuesto', icon: '💰', heading: 'Presupuesto' },
   { id: 'reservas', title: 'Reservas', icon: '📌', heading: 'Reservas' },
   { id: 'checklist', title: 'Checklist', icon: '✅', heading: 'Checklist' },
   { id: 'notas', title: 'Notas del viaje', icon: '📝', heading: 'Notas del viaje' },
