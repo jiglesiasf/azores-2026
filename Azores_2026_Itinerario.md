@@ -141,7 +141,7 @@
 
 ---
 
-## 📍 Martes 16 de agosto — Llegada a São Miguel
+## 📍 Domingo 16 de agosto — Llegada a São Miguel
 
 ### 🎯 Objetivo del día
 Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
@@ -193,7 +193,7 @@ Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ---
 
-## 📍 Miércoles 17 de agosto — Furnas: termas y caldera
+## 📍 Lunes 17 de agosto — Furnas: termas y caldera
 
 ### 🎯 Objetivo del día
 Disfrutar de Furnas: termas, fumarolas y gastronomía volcánica.
@@ -243,7 +243,7 @@ Disfrutar de Furnas: termas, fumarolas y gastronomía volcánica.
 
 ---
 
-## 📍 Jueves 18 de agosto — Furnas: Lagoa do Furnas y alrededores
+## 📍 Martes 18 de agosto — Furnas: Lagoa do Furnas y alrededores
 
 ### 🎯 Objetivo del día
 Descubrir el lago, los miradores y la costa norte desde Furnas.
@@ -291,7 +291,7 @@ Descubrir el lago, los miradores y la costa norte desde Furnas.
 
 ---
 
-## 📍 Viernes 19 de agosto — Furnas → Ponta Delgada (traslado)
+## 📍 Miércoles 19 de agosto — Furnas → Ponta Delgada (traslado)
 
 ### 🎯 Objetivo del día
 Tranquilamente, de Furnas a Ponta Delgada. Sin prisas. Aprovechar el camino.
@@ -341,7 +341,7 @@ Tranquilamente, de Furnas a Ponta Delgada. Sin prisas. Aprovechar el camino.
 
 ---
 
-## 📍 Sábado 20 de agosto — Ballenas 🐋 + Ponta Delgada
+## 📍 Jueves 20 de agosto — Ballenas 🐋 + Ponta Delgada
 
 ### 🎯 Objetivo del día
 Excursión de ballenas y delfines por la mañana. Tarde tranquila en Ponta Delgada.
@@ -396,7 +396,7 @@ Excursión de ballenas y delfines por la mañana. Tarde tranquila en Ponta Delga
 
 ---
 
-## 📍 Domingo 21 de agosto — Costa Norte: Ribeira Grande y Sete Cidades
+## 📍 Viernes 21 de agosto — Costa Norte: Ribeira Grande y Sete Cidades
 
 ### 🎯 Objetivo del día
 Explorar la costa norte y las lagunas de Sete Cidades. Día de paisajes espectaculares.
@@ -448,7 +448,7 @@ Explorar la costa norte y las lagunas de Sete Cidades. Día de paisajes espectac
 
 ---
 
-## 📍 Lunes 22 de agosto — Nordeste y costa este
+## 📍 Sábado 22 de agosto — Nordeste y costa este
 
 ### 🎯 Objetivo del día
 Día de exploración por el Nordeste: paisajes verdes, miradores y tranquilidad.
@@ -497,7 +497,7 @@ Día de exploración por el Nordeste: paisajes verdes, miradores y tranquilidad.
 
 ---
 
-## 📍 Martes 23 de agosto — Día libre / repetir favoritos
+## 📍 Domingo 23 de agosto — Día libre / repetir favoritos
 
 ### 🎯 Objetivo del día
 Día flexible. Repetir algo que gustó mucho, o descubrir algo nuevo.
@@ -544,7 +544,7 @@ Variable
 
 ---
 
-## 📍 Miércoles 24 de agosto — Vuelta a casa
+## 📍 Lunes 24 de agosto — Vuelta a casa
 
 ### 🎯 Objetivo del día
 Últimas compras, despedida y vuelta a casa.
