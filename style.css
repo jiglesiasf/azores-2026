@@ -184,6 +184,21 @@ body {
 
 .content li input[type="checkbox"] {
   margin-right: 0.5rem;
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+  accent-color: var(--accent);
+}
+
+.content li:has(input[type="checkbox"]) {
+  list-style-type: none;
+  margin-left: -1.5rem;
+  padding-left: 1.5rem;
+  cursor: pointer;
+}
+
+.content li:has(input[type="checkbox"]):hover {
+  color: var(--accent);
 }
 
 .content table {

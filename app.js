@@ -101,6 +101,51 @@ function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+// Checkboxes: make clickable, save state, remove bullets
+const CHECKBOX_KEY = 'azores2026_checkboxes';
+
+function loadCheckboxState() {
+  try {
+    return JSON.parse(localStorage.getItem(CHECKBOX_KEY)) || {};
+  } catch { return {}; }
+}
+
+function saveCheckboxState(state) {
+  localStorage.setItem(CHECKBOX_KEY, JSON.stringify(state));
+}
+
+function initCheckboxes() {
+  const state = loadCheckboxState();
+  const checkboxes = content.querySelectorAll('li input[type="checkbox"]');
+
+  checkboxes.forEach((cb, i) => {
+    // Remove bullet point
+    cb.closest('li').style.listStyleType = 'none';
+
+    // Restore state
+    const key = cb.parentElement.textContent.trim();
+    if (state[key] !== undefined) {
+      cb.checked = state[key];
+    }
+
+    // Make clickable and save
+    cb.addEventListener('change', () => {
+      const s = loadCheckboxState();
+      s[key] = cb.checked;
+      saveCheckboxState(s);
+    });
+
+    // Allow clicking the label text too
+    const li = cb.closest('li');
+    li.style.cursor = 'pointer';
+    li.addEventListener('click', (e) => {
+      if (e.target === cb) return;
+      cb.checked = !cb.checked;
+      cb.dispatchEvent(new Event('change'));
+    });
+  });
+}
+
 // Scroll spy
 function onScroll() {
   let active = null;
@@ -142,6 +187,7 @@ async function init() {
     if (!resp.ok) throw new Error('No se pudo cargar el itinerario');
     const md = await resp.text();
     renderMarkdown(md);
+    initCheckboxes();
 
     // Check URL hash
     if (location.hash) {
