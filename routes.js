@@ -12,16 +12,19 @@ const ROUTES = {
   },
 
   'dia-17': {
-    center: [37.78, -25.31],
-    zoom: 13,
+    center: [37.778, -25.307],
+    zoom: 14,
     stops: [
       { name: 'Quinta das Camélias', coords: [37.7817, -25.3022], icon: 'hotel', desc: 'Alojamiento · Desayuno' },
-      { name: 'Poça da Dona Beija', coords: [37.7750, -25.3083], icon: 'thermal', desc: 'Termas · Mañana' },
-      { name: 'Lagoa das Furnas', coords: [37.7617, -25.3217], icon: 'viewpoint', desc: 'Paseo junto al lago' },
-      { name: 'Restaurante Furnas', coords: [37.7800, -25.3050], icon: 'restaurant', desc: 'Cozido das Furnas' },
-      { name: 'Parque Terra Nostra', coords: [37.7850, -25.3117], icon: 'viewpoint', desc: 'Jardín botánico · Tarde' },
+      { name: 'Parque Terra Nostra', coords: [37.7850, -25.3117], icon: 'viewpoint', desc: 'Jardín botánico · Mañana' },
+      { name: 'A Quinta', coords: [37.7835, -25.3045], icon: 'restaurant', desc: 'Comida · Wine bar' },
+      { name: 'Chalet da Tia Mercès', coords: [37.7716, -25.3037], icon: 'restaurant', desc: 'Merienda · Tetería' },
+      { name: 'Caldeiras das Furnas', coords: [37.7726, -25.3039], icon: 'viewpoint', desc: 'Fumarolas · Paseo tarde' },
+      { name: 'Jardim da Alameda', coords: [37.7710, -25.3085], icon: 'viewpoint', desc: 'Jardín público · Paseo tarde' },
+      { name: 'Casa Invertida', coords: [37.7724, -25.3103], icon: 'viewpoint', desc: 'Casa al revés · Foto' },
+      { name: 'Quinta das Camélias', coords: [37.7817, -25.3022], icon: 'hotel', desc: 'Vuelta al alojamiento' },
     ],
-    route: [[37.7817, -25.3022], [37.7750, -25.3083], [37.7617, -25.3217], [37.7800, -25.3050], [37.7850, -25.3117]],
+    route: [[37.7817, -25.3022], [37.7850, -25.3117], [37.7835, -25.3045], [37.7716, -25.3037], [37.7726, -25.3039], [37.7710, -25.3085], [37.7724, -25.3103], [37.7817, -25.3022]],
   },
 
   'dia-18': {

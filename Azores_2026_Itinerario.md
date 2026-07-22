@@ -206,46 +206,52 @@ Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ---
 
-## 📍 Lunes 17 de agosto — Furnas: termas y caldera
+## 📍 Lunes 17 de agosto — Furnas: parque, gastronomía y paseo volcánico
 
 ### 🎯 Objetivo del día
-Disfrutar de Furnas: termas, fumarolas y gastronomía volcánica.
+Primer día completo en Furnas: jardín botánico, buena comida y paseo volcánico por el pueblo.
 
 ### 🌅 Plan de la mañana
 - Desayuno tranquilo en el alojamiento
-- Visitar las **Furnas**: fumarolas,Poça da Dona Beija, o el Jardim Terra Nostra
-- Con niños pequeños, elegir UNA actividad y hacerla sin prisas
-- Si los niños lo permiten: paseo por el lago de Furnas
+- [**Parque Terra Nostra**](https://www.google.com/maps/place/Parque+Terra+Nostra/@37.7850,-25.3117) (jardín botánico enorme de 12 hectáreas, thermal pool)
+- Ideal con niños: senderos entre árboles exóticos, puentes, estanques
+- Baño en el thermal pool (35-40°C, agua rica en hierro color óxido)
+- Sin prisas: dedicar toda la mañana
 
 ### 🍽️ Comida
-- *Cozido das Furnas*: estofado tradicional cocido durante 6 horas en el suelo volcánico
-- *(pendiente: recomendar restaurante concreto)*
-- Pedir con antelación si es posible (tarda en prepararse)
+- [**A Quinta**](https://www.google.com/maps/place/A+Quinta/@37.7835,-25.3045) — wine bar con jardines tropicales en Avenida Dr. Manuel Arriaga
+- Tapas, bifes, hamburguesas, cócteles, carta de vinos
+- Ambiente semi-alfresco, ideal para que los niños correteén en los jardines
+- ~3-4 min en coche desde el alojamiento
 
-### 😴 Siesta (trayecto recomendado)
-- Si après-comida quieren dormir: ruta panorámica en coche
-- Ruta por la **EN-1-1A** hacia el este (dirección Nordeste)
-- O simplemente pasear por las calles de Furnas mientras duermen
+### ☕ Merienda
+- [**Chalet da Tia Mercès**](https://www.google.com/maps/place/Chalet+da+Tia+Merc%C3%AAs/@37.7716,-25.3037) — tetería junto a las caldeiras (Ribeira Amarela)
+- Pasteles caseros, quesos locales, té Gorreana
+- Muy acogedor, ambiente tranquilo
+- ~4-5 min en coche desde A Quinta
 
-### 🌿 Plan de tarde
-- Volver a las termas si no fueron por la mañana
-- O visitar el **Parque Terra Nostra** (jardín botánico enorme, ideal con niños)
-- Paseo tranquilo junto al río
+### 🌿 Plan de tarde — Paseo por Furnas
+- [**Caldeiras das Furnas**](https://www.google.com/maps/place/Caldeiras+das+Furnas/@37.7726,-25.3039) — pasarelas de madera entre fumarolas y pozas hirvientes. Gratis, en el centro del pueblo
+- [**Jardim da Alameda**](https://www.google.com/maps/place/Jardim+da+Alameda/@37.7710,-25.3085) — jardín público junto al río con hortensias, cascada artificial y pecera
+- [**Casa Invertida**](https://www.google.com/maps/place/Casa+Invertida/@37.7724,-25.3103) — casa al revés (escultura artística). Foto divertida
+- Todo caminable, sin coche, ideal con niños
 
 ### 🍷 Cena
 - Restaurante en Furnas o Vila Franca do Campo
 - *(pendiente)*
 
 ### 🚗 Tiempo en coche
-~15-20 min (movimientos por Furnas)
+~10-15 min (movimientos por Furnas)
 
 ### 🌧️ Alternativa si llueve
-- Termas bajo la lluvia son geniales
-- Jardim Terra Nostra tiene zonas cubiertas
+- Las caldeiras son espectaculares bajo la lluvia
+- Jardim da Alameda tiene zonas cubiertas
 - Quedarse en el alojamiento con una película
 
 ### 📝 Notas
-- Las termas tienen zonas para niños pequeños, pero confirmar edades
+- Parque Terra Nostra: entrada ~8€, thermal pool incluido
+- Chalet da Tia Mercès: mejor para merienda que para comida completa
+- Las caldeiras son gratis y abiertas 24h
 - Llevar gorro de baño para los niños
 - El *Cozido* se pide por anticipado en muchos sitios
 
