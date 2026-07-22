@@ -88,7 +88,9 @@
 |---|---|
 | Fecha y hora | 16 agosto 2026, 19:00 |
 | Dirección | 162 Rua da Piedade, Arrifes, São Miguel |
-| Teléfono | +351 925 520 367 |
+| Contacto | [+351 925 520 367](https://wa.me/351925520367) · [+351 925 520 366](https://wa.me/351925520366) (WhatsApp) |
+
+> 📱 *A tu llegada, ponte en contacto con AddCar/Primeazores por WhatsApp para coordinar la recogida.*
 
 **Devolución**
 
