@@ -658,6 +658,10 @@ body {
 }
 
 /* ── Carousel ── */
+.accordion-intro {
+  padding: 0 16px 8px;
+}
+
 .carousel {
   margin: 12px 0;
   border-radius: 10px;

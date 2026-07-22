@@ -103,6 +103,9 @@ function parseMarkdown(md) {
         const subMatch = lines[i].match(/^### ([\p{Emoji_Presentation}\p{Extended_Pictographic}]+)\s*(.+)$/u);
         if (subMatch) {
           if (curSub) { curSub.content = buf.join('\n').trim(); daySections.push(curSub); }
+          else if (buf.length && buf.some(l => l.trim())) {
+            daySections.push({ icon: '', label: '', content: buf.join('\n').trim() });
+          }
           curSub = { icon: subMatch[1], label: subMatch[2].trim(), content: '' };
           buf = [];
           i++;
@@ -327,6 +330,14 @@ function renderBottomSheet(dayId) {
   sheetBody.innerHTML = '';
   day.sections.forEach(sec => {
     if (sec.label.includes('Tiempo en coche')) return;
+
+    if (!sec.icon && !sec.label) {
+      const intro = document.createElement('div');
+      intro.className = 'accordion-intro';
+      intro.innerHTML = marked.parse(processCarousels(sec.content));
+      sheetBody.appendChild(intro);
+      return;
+    }
 
     const acc = document.createElement('div');
     acc.className = 'accordion';
