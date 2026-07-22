@@ -1,5 +1,11 @@
 // ═══════════════════════════════════════════════════════════════
-// 1. DOM REFERENCES
+// 1. CONFIG
+// ═══════════════════════════════════════════════════════════════
+const SITE_PASSWORD = 'azores2026'; // ← Cambia esta contraseña
+const AUTH_KEY = 'azores2026_auth';
+
+// ═══════════════════════════════════════════════════════════════
+// 2. DOM REFERENCES
 // ═══════════════════════════════════════════════════════════════
 const sidebarNav = document.getElementById('sidebarNav');
 const contentView = document.getElementById('contentView');
@@ -459,8 +465,34 @@ dayBack.addEventListener('click', () => showContent(lastContentSection));
 sheetOverlay.addEventListener('click', () => setSheetState('collapsed'));
 
 // ═══════════════════════════════════════════════════════════════
-// 15. INITIALIZATION
+// 15. AUTH & INITIALIZATION
 // ═══════════════════════════════════════════════════════════════
+function isAuth() {
+  return sessionStorage.getItem(AUTH_KEY) === 'true';
+}
+
+function initLoginGate() {
+  const gate = document.getElementById('loginGate');
+  const form = document.getElementById('loginForm');
+  const input = document.getElementById('loginPassword');
+  const error = document.getElementById('loginError');
+
+  form.addEventListener('submit', e => {
+    e.preventDefault();
+    if (input.value === SITE_PASSWORD) {
+      sessionStorage.setItem(AUTH_KEY, 'true');
+      gate.classList.add('hidden');
+isAuth() ? init() : initLoginGate();
+    } else {
+      error.textContent = 'Contraseña incorrecta';
+      input.value = '';
+      input.focus();
+    }
+  });
+
+  input.focus();
+}
+
 async function init() {
   buildNav();
   try {

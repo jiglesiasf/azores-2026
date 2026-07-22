@@ -14,6 +14,20 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- Login Gate -->
+  <div id="loginGate" class="login-gate">
+    <div class="login-card">
+      <div class="login-icon"><i class="fa-solid fa-lock"></i></div>
+      <h2>Itinerario Privado</h2>
+      <p>Introduce la contraseña para acceder</p>
+      <form id="loginForm">
+        <input type="password" id="loginPassword" placeholder="Contraseña" autocomplete="off">
+        <button type="submit">Entrar</button>
+        <p id="loginError" class="login-error"></p>
+      </form>
+    </div>
+  </div>
+
   <button class="menu-toggle" id="menuToggle" aria-label="Menú">
     <i class="fa-solid fa-bars"></i>
   </button>
