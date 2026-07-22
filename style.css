@@ -342,10 +342,11 @@ body {
 
 .accordion-inner a {
   color: var(--accent);
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
-.accordion-inner a:hover { text-decoration: underline; }
+.accordion-inner a:hover { color: var(--accent-hover); }
 
 .accordion-inner p { margin: 0.3rem 0; }
 
@@ -535,12 +536,12 @@ body {
 
 .content a {
   color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.15s;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.15s;
 }
 
-.content a:hover { border-bottom-color: var(--accent); }
+.content a:hover { color: var(--accent-hover); }
 
 .content ul, .content ol {
   padding-left: 1.5rem;
