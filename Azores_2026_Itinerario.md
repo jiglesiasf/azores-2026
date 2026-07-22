@@ -209,8 +209,8 @@ Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 ## 📍 Lunes 17 de agosto — Furnas: parque, gastronomía y paseo volcánico
 
 :::carousel
-![Parque Terra Nostra — jardín botánico](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Encephalartos_umbeluziensis_furnas_2015.jpg/800px-Encephalartos_umbeluziensis_furnas_2015.jpg)
-![Caldeiras das Furnas — fumarolas](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lagoa_das_Furnas_Caldeiras_4.jpg/800px-Lagoa_das_Furnas_Caldeiras_4.jpg)
+![Parque Terra Nostra — jardín botánico](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Encephalartos_umbeluziensis_furnas_2015.jpg/960px-Encephalartos_umbeluziensis_furnas_2015.jpg)
+![Caldeiras das Furnas — fumarolas](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lagoa_das_Furnas_Caldeiras_4.jpg/960px-Lagoa_das_Furnas_Caldeiras_4.jpg)
 :::
 
 ### 🎯 Objetivo del día
@@ -270,8 +270,8 @@ Primer día completo en Furnas: jardín botánico, buena comida y paseo volcáni
 ## 📍 Martes 18 de agosto — Furnas: Lagoa do Furnas y alrededores
 
 :::carousel
-![Lagoa das Furnas — lago volcánico](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lagoa_das_Furnas_Caldeiras_4.jpg/800px-Lagoa_das_Furnas_Caldeiras_4.jpg)
-![Capela de Nossa Senhora das Vitórias](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/800px-Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
+![Lagoa das Furnas — lago volcánico](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lagoa_das_Furnas_Caldeiras_4.jpg/960px-Lagoa_das_Furnas_Caldeiras_4.jpg)
+![Capela de Nossa Senhora das Vitórias](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/960px-Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
 :::
 
 ### 🎯 Objetivo del día
@@ -323,8 +323,8 @@ Descubrir el lago, los miradores y la costa norte desde Furnas.
 ## 📍 Miércoles 19 de agosto — Furnas → Ponta Delgada (traslado)
 
 :::carousel
-![Lagoa do Fogo — lago volcánico](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lagoa_do_Fog_from_Pico_da_Barrosa_(51687349951).jpg/800px-Lagoa_do_Fog_from_Pico_da_Barrosa_(51687349951).jpg)
-![Vila Franca do Campo — costa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/800px-Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
+![Lagoa do Fogo — lago volcánico](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lagoa_do_Fog_from_Pico_da_Barrosa_(51687349951).jpg/960px-Lagoa_do_Fog_from_Pico_da_Barrosa_(51687349951).jpg)
+![Vila Franca do Campo — costa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/960px-Ermida_de_Nossa_Senhora_da_Paz%2C_Vila_Franca_do_Campo%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
 :::
 
 ### 🎯 Objetivo del día
@@ -378,8 +378,8 @@ Tranquilamente, de Furnas a Ponta Delgada. Sin prisas. Aprovechar el camino.
 ## 📍 Jueves 20 de agosto — Ballenas 🐋 + Ponta Delgada
 
 :::carousel
-![Avistamiento de ballenas — Azores](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/800px-Sao_Miguel_Whale_Watching.jpg)
-![Ponta Delgada — marina](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smi_pdl_marina_ponta_delgada.JPG/800px-Smi_pdl_marina_ponta_delgada.JPG)
+![Avistamiento de ballenas — Azores](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/960px-Sao_Miguel_Whale_Watching.jpg)
+![Ponta Delgada — marina](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smi_pdl_marina_ponta_delgada.JPG/960px-Smi_pdl_marina_ponta_delgada.JPG)
 :::
 
 ### 🎯 Objetivo del día
@@ -438,8 +438,8 @@ Excursión de ballenas y delfines por la mañana. Tarde tranquila en Ponta Delga
 ## 📍 Viernes 21 de agosto — Costa Norte: Ribeira Grande y Sete Cidades
 
 :::carousel
-![Sete Cidades — lagunas azul y verde](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg/800px-Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg)
-![Costa norte — acantilados](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/800px-Sao_Miguel_Whale_Watching.jpg)
+![Sete Cidades — lagunas azul y verde](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg/960px-Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg)
+![Costa norte — acantilados](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/960px-Sao_Miguel_Whale_Watching.jpg)
 :::
 
 ### 🎯 Objetivo del día
@@ -495,8 +495,8 @@ Explorar la costa norte y las lagunas de Sete Cidades. Día de paisajes espectac
 ## 📍 Sábado 22 de agosto — Nordeste y costa este
 
 :::carousel
-![Farol do Arnel — faro](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Farol_do_Arnel%2C_Ponta_o_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/800px-Farol_do_Arnel%2C_Ponta_o_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
-![Costa de Nordeste](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Miradouro_da_Ponta_do_Arnel%2C_Ponta_do_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/800px-Miradouro_da_Ponta_do_Arnel%2C_Ponta_do_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
+![Farol do Arnel — faro](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Farol_do_Arnel%2C_Ponta_o_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/960px-Farol_do_Arnel%2C_Ponta_o_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
+![Costa de Nordeste](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Miradouro_da_Ponta_do_Arnel%2C_Ponta_do_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/960px-Miradouro_da_Ponta_do_Arnel%2C_Ponta_do_Arnel%2C_Nordeste%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG)
 :::
 
 ### 🎯 Objetivo del día
@@ -549,8 +549,8 @@ Día de exploración por el Nordeste: paisajes verdes, miradores y tranquilidad.
 ## 📍 Domingo 23 de agosto — Día libre / repetir favoritos
 
 :::carousel
-![São Miguel — paisaje volcánico](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg/800px-Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg)
-![Piscina natural — Ferraria](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/800px-Sao_Miguel_Whale_Watching.jpg)
+![São Miguel — paisaje volcánico](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg/960px-Caldeira_das_Sete_Cidades%2C_A%C3%A7ores_2.jpg)
+![Piscina natural — Ferraria](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/960px-Sao_Miguel_Whale_Watching.jpg)
 :::
 
 ### 🎯 Objetivo del día
@@ -601,8 +601,8 @@ Variable
 ## 📍 Lunes 24 de agosto — Vuelta a casa
 
 :::carousel
-![Ponta Delgada — vista aérea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smi_pdl_marina_ponta_delgada.JPG/800px-Smi_pdl_marina_ponta_delgada.JPG)
-![Aeropuerto de Ponta Delgada](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/800px-Sao_Miguel_Whale_Watching.jpg)
+![Ponta Delgada — vista aérea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smi_pdl_marina_ponta_delgada.JPG/960px-Smi_pdl_marina_ponta_delgada.JPG)
+![Aeropuerto de Ponta Delgada](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sao_Miguel_Whale_Watching.jpg/960px-Sao_Miguel_Whale_Watching.jpg)
 :::
 
 ### 🎯 Objetivo del día
