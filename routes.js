@@ -6,50 +6,50 @@ const ROUTES = {
     stops: [
       { name: 'Aeropuerto PDL', coords: [37.7412, -25.6979], icon: 'airport', desc: 'Llegada 18:50 · Recoger coche' },
       { name: 'Supermercado', coords: [37.7450, -25.6850], icon: 'shop', desc: 'Compra rápida antes de Furnas' },
-      { name: 'Furnas — Quinta das Camélias', coords: [37.7817, -25.3022], icon: 'hotel', desc: 'Check-in ~20:00' },
+      { name: 'Furnas — Quinta das Camélias', coords: [37.7771, -25.3126], icon: 'hotel', desc: 'Check-in ~20:00' },
     ],
-    route: [[37.7412, -25.6979], [37.7450, -25.6850], [37.7600, -25.5500], [37.7817, -25.3022]],
+    route: [[37.7412, -25.6979], [37.7450, -25.6850], [37.7600, -25.5500], [37.7771, -25.3126]],
   },
 
   'dia-17': {
     center: [37.778, -25.307],
     zoom: 14,
     stops: [
-      { name: 'Quinta das Camélias', coords: [37.7817, -25.3022], icon: 'hotel', desc: 'Alojamiento · Desayuno' },
+      { name: 'Quinta das Camélias', coords: [37.7771, -25.3126], icon: 'hotel', desc: 'Alojamiento · Desayuno' },
       { name: 'Parque Terra Nostra', coords: [37.7850, -25.3117], icon: 'viewpoint', desc: 'Jardín botánico · Mañana' },
       { name: 'A Quinta', coords: [37.7835, -25.3045], icon: 'restaurant', desc: 'Comida · Wine bar' },
       { name: 'Chalet da Tia Mercès', coords: [37.7716, -25.3037], icon: 'restaurant', desc: 'Merienda · Tetería' },
       { name: 'Caldeiras das Furnas', coords: [37.7726, -25.3039], icon: 'viewpoint', desc: 'Fumarolas · Paseo tarde' },
       { name: 'Jardim da Alameda', coords: [37.7710, -25.3085], icon: 'viewpoint', desc: 'Jardín público · Paseo tarde' },
       { name: 'Casa Invertida', coords: [37.7724, -25.3103], icon: 'viewpoint', desc: 'Casa al revés · Foto' },
-      { name: 'Quinta das Camélias', coords: [37.7817, -25.3022], icon: 'hotel', desc: 'Vuelta al alojamiento' },
+      { name: 'Quinta das Camélias', coords: [37.7771, -25.3126], icon: 'hotel', desc: 'Vuelta al alojamiento' },
     ],
-    route: [[37.7817, -25.3022], [37.7850, -25.3117], [37.7835, -25.3045], [37.7716, -25.3037], [37.7726, -25.3039], [37.7710, -25.3085], [37.7724, -25.3103], [37.7817, -25.3022]],
+    route: [[37.7771, -25.3126], [37.7850, -25.3117], [37.7835, -25.3045], [37.7716, -25.3037], [37.7726, -25.3039], [37.7710, -25.3085], [37.7724, -25.3103], [37.7771, -25.3126]],
   },
 
   'dia-18': {
     center: [37.77, -25.28],
     zoom: 12,
     stops: [
-      { name: 'Quinta das Camélias', coords: [37.7817, -25.3022], icon: 'hotel', desc: 'Alojamiento' },
+      { name: 'Quinta das Camélias', coords: [37.7771, -25.3126], icon: 'hotel', desc: 'Alojamiento' },
       { name: 'Lagoa do Furnas', coords: [37.7617, -25.3217], icon: 'viewpoint', desc: 'Paseo junto al lago' },
       { name: 'Capela de N. Sra. das Vitórias', coords: [37.7580, -25.3250], icon: 'viewpoint', desc: 'Orilla del lago' },
       { name: 'Miradouro do Lagoa do Furnas', coords: [37.7650, -25.3150], icon: 'viewpoint', desc: 'Vistas al lago · Fotos' },
     ],
-    route: [[37.7817, -25.3022], [37.7617, -25.3217], [37.7580, -25.3250], [37.7650, -25.3150], [37.7817, -25.3022]],
+    route: [[37.7771, -25.3126], [37.7617, -25.3217], [37.7580, -25.3250], [37.7650, -25.3150], [37.7771, -25.3126]],
   },
 
   'dia-19': {
     center: [37.73, -25.45],
     zoom: 11,
     stops: [
-      { name: 'Quinta das Camélias', coords: [37.7817, -25.3022], icon: 'hotel', desc: 'Check-out 10:00' },
+      { name: 'Quinta das Camélias', coords: [37.7771, -25.3126], icon: 'hotel', desc: 'Check-out 10:00' },
       { name: 'Lagoa do Fogo', coords: [37.7500, -25.4833], icon: 'viewpoint', desc: 'Parada en ruta (si hay tiempo)' },
       { name: 'Vila Franca do Campo', coords: [37.7185, -25.4343], icon: 'viewpoint', desc: 'Paseo · Vista al islote' },
       { name: 'IN53 Guest House', coords: [37.7397, -25.6685], icon: 'hotel', desc: 'Check-in Ponta Delgada' },
       { name: 'Marina / Portas da Cidade', coords: [37.7350, -25.6600], icon: 'viewpoint', desc: 'Paseo tarde' },
     ],
-    route: [[37.7817, -25.3022], [37.7500, -25.4833], [37.7185, -25.4343], [37.7397, -25.6685], [37.7350, -25.6600]],
+    route: [[37.7771, -25.3126], [37.7500, -25.4833], [37.7185, -25.4343], [37.7397, -25.6685], [37.7350, -25.6600]],
   },
 
   'dia-20': {
