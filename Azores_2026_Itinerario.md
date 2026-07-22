@@ -233,7 +233,7 @@ Primer día completo en Furnas: jardín botánico, buena comida y paseo volcáni
 ### 🌿 Plan de tarde — Paseo por Furnas
 - [**Caldeiras das Furnas**](https://www.google.com/maps/place/Caldeiras+das+Furnas/@37.7726,-25.3039) — pasarelas de madera entre fumarolas y pozas hirvientes. Gratis, en el centro del pueblo
 - [**Jardim da Alameda**](https://www.google.com/maps/place/Jardim+da+Alameda/@37.7710,-25.3085) — jardín público junto al río con hortensias, cascada artificial y pecera
-- [**Casa Invertida**](https://www.google.com/maps/place/Casa+Invertida/@37.7724,-25.3103) — casa al revés (escultura artística). Foto divertida
+- [**Casa Invertida**](https://maps.app.goo.gl/WmyB5MxNHc8EiopR9) — casa al revés (escultura artística). Foto divertida
 - Todo caminable, sin coche, ideal con niños
 
 ### 🍷 Cena
