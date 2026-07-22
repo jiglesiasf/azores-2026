@@ -67,6 +67,18 @@ function getDayId(title) {
   return m ? 'dia-' + m[1] : null;
 }
 
+function processCarousels(content) {
+  return content.replace(/:::carousel\n([\s\S]*?):::/g, (_, inner) => {
+    const imgs = [];
+    const imgRe = /!\[([^\]]*)\]\(([^)]+)\)/g;
+    let m;
+    while ((m = imgRe.exec(inner)) !== null) {
+      imgs.push(`<div class="carousel-slide"><img src="${m[2]}" alt="${m[1]}" loading="lazy" /></div>`);
+    }
+    return `<div class="carousel"><div class="carousel-track">${imgs.join('')}</div></div>`;
+  });
+}
+
 function parseMarkdown(md) {
   const lines = md.split('\n');
   const days = {};
@@ -329,7 +341,7 @@ function renderBottomSheet(dayId) {
 
     const content = document.createElement('div');
     content.className = 'accordion-content';
-    content.innerHTML = `<div class="accordion-inner">${marked.parse(sec.content)}</div>`;
+    content.innerHTML = `<div class="accordion-inner">${marked.parse(processCarousels(sec.content))}</div>`;
 
     acc.appendChild(toggle);
     acc.appendChild(content);
