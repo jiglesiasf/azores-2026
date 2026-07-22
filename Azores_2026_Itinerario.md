@@ -72,14 +72,29 @@
 
 | Detalle | Info |
 |---|---|
-| Compañía | *(pendiente)* |
-| Modelo | *(pendiente)* |
-| Num. reserva | *(pendiente)* |
-| Fecha recogida | 16 agosto, PDL |
-| Fecha devolución | 24 agosto, PDL |
-| Seguro completo | *(pendiente)* |
-| GPS incluido | *(pendiente)* |
-| Sillas niño | *(pendiente)* |
+| Proveedor | AddCar |
+| Modelo | Volkswagen T-Cross o similar |
+| Clase | Intermediate |
+| Plazas | 5 |
+| Puertas | 4 |
+| Equipaje | 2 maletas grandes + 1 pequeña |
+| Transmisión | Manual |
+| Aire acondicionado | ✅ |
+| Kilometraje | Ilimitado |
+
+**Recogida**
+
+| Detalle | Info |
+|---|---|
+| Fecha y hora | 16 agosto 2026, 19:00 |
+| Dirección | 162 Rua da Piedade, Arrifes, São Miguel |
+| Teléfono | +351 925 520 367 |
+
+**Devolución**
+
+| Detalle | Info |
+|---|---|
+| Fecha | 24 agosto, PDL |
 
 > ⚠️ *Confirmar si aceptan sillas de coche propias o hay que alquilarlas.*
 
