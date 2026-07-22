@@ -42,7 +42,7 @@
 
 | Detalle | Info |
 |---|---|
-| Alojamiento | Quinta das Camélias |
+| Alojamiento | [Quinta das Camélias](https://maps.app.goo.gl/wbWo5Qa1AoK334dM8) |
 | Dirección | Rua da Palha 18, Furnas, Azores 9675 |
 | Web | *(enlace privado)* |
 | Check-in | 16 agosto, 16:00 |
@@ -202,7 +202,7 @@ Llegar, recoger el coche y desplazarnos a Furnas. Primera impresión de la isla.
 
 ### 🔗 Links útiles
 - *(añadir mapa Google Maps del trayecto aeropuerto → Furnas)*
-- *(añadir enlace Quinta das Camélias)*
+- [Quinta das Camélias — Google Maps](https://maps.app.goo.gl/wbWo5Qa1AoK334dM8)
 
 ---
 
@@ -730,7 +730,7 @@ Variable
 |---|---|---|---|---|
 | 16 agosto | Vuelo OPO→TER (S4183) | 15:40 | Azores Airlines | ✅ |
 | 16 agosto | Vuelo TER→PDL (SP409) | 18:05 | Azores Airlines | ✅ |
-| 16-19 agosto | Alojamiento Furnas (Quinta das Camélias) | Check-in: 16:00 | *(en booking privado)* | ✅ Confirmada |
+| 16-19 agosto | [Alojamiento Furnas (Quinta das Camélias)](https://maps.app.goo.gl/wbWo5Qa1AoK334dM8) | Check-in: 16:00 | *(en booking privado)* | ✅ Confirmada |
 | 19-24 agosto | Alojamiento Ponta Delgada (IN53 Guest House) | Check-in: *(pendiente)* | *(pendiente)* | ✅ Confirmada |
 | 20 agosto | Whale watching (catamarán) | 08:30 | *(pendiente)* | ✅ Confirmada |
 | 24 agosto | Vuelo PDL→LIS (S4122) | 09:50 | Azores Airlines | ✅ |
